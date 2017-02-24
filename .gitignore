@@ -13,3 +13,5 @@ hs_err_pid*
 
 # Ignorar arquivos da pasta target
 /target/*
+/bdnc-jts-example/target/
+/bdnc-oracleExBd-example/target/
